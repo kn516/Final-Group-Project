@@ -9,7 +9,6 @@ body {
 a {
   color: #00B7FF;
 } 
-
 /*!
 * Start Bootstrap - Creative v7.0.6 (https://startbootstrap.com/theme/creative)
 * Copyright 2013-2022 Start Bootstrap
@@ -310,7 +309,7 @@ figure {
 
 img,
 svg {
-  vertical-align: middle;
+  vertical-align: auto;
 }
 
 table {
@@ -3043,8 +3042,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1206f2;
-  border-color: #1206f2;
+  background-color: #f4623a;
+  border-color: #f4623a;
 }
 .btn-primary:hover {
   color: #fff;
@@ -11330,7 +11329,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #1206f2;
+  background-color: #f4623a;
   opacity: 1;
 }
 
@@ -11403,7 +11402,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.63) 0%, rgba(92, 77, 66, 0.63) 100%), url("images/background.jpeg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.63) 0%, rgba(92, 77, 66, 0.63) 100%), url("../assets/img/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
