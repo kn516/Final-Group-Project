@@ -9960,6 +9960,13 @@ textarea.form-control-lg {
     display: inline-block !important;
   }
 
+  .remove-padding {
+    padding: 0;
+   margin: 0;
+
+
+  }
+
   .d-xl-block {
     display: block !important;
   }
@@ -11399,6 +11406,8 @@ hr.divider-light {
     color: #f4623a;
   }
 }
+
+
 
 header.masthead {
   padding-top: 10rem;
